@@ -16,7 +16,7 @@ This is a solution to the [(https://www.frontendmentor.io/challenges/qr-code-com
 
 ## Overview
 
-### Screenshots:-
+## Screenshot
 ### Desktop view
 ![](/Screenshot-desktop.png)
 ### Mobile view
